@@ -1,5 +1,3 @@
-# OpenGL-Shader
-CGAP HW1 load and render the 3d mode with the texture
 ## Environment
 - Windows 11 64bit
 - Visual Studio 2015
