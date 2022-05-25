@@ -5,9 +5,9 @@
 
 ## Build
 1. Install GLFW first, here the latest version is 3.3.7
-2. Use Cmake to compile GLFW and build
+2. Use Cmake to compile and build GLFW
 3. Remember the CMAKE_INSTALL_PREFIX value(path)
-4. Use Cmake to compile code and build
+4. Use Cmake to compile and build the code
 
 ## Run the program
 ```!
